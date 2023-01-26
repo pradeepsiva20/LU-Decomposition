@@ -45,7 +45,6 @@ print(solution)
 ```
 
 ## Output:
-![lu decomposition]()
 ![ludecom1](https://user-images.githubusercontent.com/120539823/214770877-61edcc9a-4267-4bb0-bd02-c3daf1953586.png)
 ![ludecom2](https://user-images.githubusercontent.com/120539823/214770891-16c86624-6b79-4958-807b-013ffc65143b.png)
 
